@@ -1,0 +1,3 @@
+# # 24/7 Customer Self-Service
+
+**Competitive Advantage:** Always-available customer access and control- **A+W iQuote (G):** Web-based portal providing round-the-clock customer access- **Real-Time Status:** Live updates on quotation and order status- **Mobile Optimization:** Full functionality on tablets and smartphones- **Customer Empowerment:** Customers can manage their own orders and track progress
