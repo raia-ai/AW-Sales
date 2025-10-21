@@ -1,2 +1,2 @@
-# sales-methodology
+# Sales Methodology
 

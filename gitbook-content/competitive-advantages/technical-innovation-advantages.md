@@ -1,2 +1,0 @@
-# Technical Innovation Advantages
-

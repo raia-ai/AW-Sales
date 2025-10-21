@@ -1,2 +1,2 @@
-# pain-points
+# Pain Points & Solutions
 

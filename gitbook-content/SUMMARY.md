@@ -80,6 +80,6 @@
 * [# True To Scale Visual Interface](competitive-advantages/#-true-to-scale-visual-interface.md)
 * [247 Continuous Operations](competitive-advantages/247-continuous-operations.md)
 * [247 Customer Self Service](competitive-advantages/247-customer-self-service.md)
-* [40 Years Of Glass Industry Expertise](competitive-advantages/40-years-of-glass-industry-expertise.md)
+* [40 Years Of Glass Industry Expertise](broken-reference)
 * [Accelerated Business Processes](competitive-advantages/accelerated-business-processes.md)
-* [Advanced Defect Management](competitive-advantages/advanced-defect-management.md)
+* [Advanced Defect Management](broken-reference)

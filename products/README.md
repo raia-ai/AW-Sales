@@ -1,2 +1,2 @@
-# products
+# Products
 
