@@ -1,23 +1,24 @@
-# # Pain Point 3: Processing Defective Materials Leading to Waste
+# Pain-Point-3-Processing-Defective-Materials-Leading-to-Waste
 
-# Pain Point 3: Processing Defective Materials Leading to Waste
 **Industry Challenge:**
-- Defects in raw glass are often discovered after cutting and processing
-- Processing defective materials wastes labor, energy, and additional materials
-- Lack of supplier feedback perpetuates quality issues
-- Manual defect detection is inconsistent and time-consuming
+
+* Defects in raw glass are often discovered after cutting and processing
+* Processing defective materials wastes labor, energy, and additional materials
+* Lack of supplier feedback perpetuates quality issues
+* Manual defect detection is inconsistent and time-consuming
 
 **A+W Solution - Proactive Defect Management:**
-- **A+W Defect Optimizer:** Pre-cutting defect detection prevents processing waste
-- **Scanner Integration:** Works with Viprotron and other scanning systems
-- **Intelligent Placement:** Automatically places smaller pieces on defective areas when unavoidable
-- **Supplier Feedback:** Provides detailed defect data back to suppliers for improvement
+
+* **A+W Defect Optimizer:** Pre-cutting defect detection prevents processing waste
+* **Scanner Integration:** Works with Viprotron and other scanning systems
+* **Intelligent Placement:** Automatically places smaller pieces on defective areas when unavoidable
+* **Supplier Feedback:** Provides detailed defect data back to suppliers for improvement
 
 **Business Impact:**
-- **Waste Reduction:** 2-6% waste reduction through defect avoidance
-- **Quality Improvement:** Prevents defective products from reaching customers
-- **Supplier Performance:** Improved supplier quality through data-driven feedback
-- **Cost Avoidance:** Eliminates processing costs on defective materials
 
----
+* **Waste Reduction:** 2-6% waste reduction through defect avoidance
+* **Quality Improvement:** Prevents defective products from reaching customers
+* **Supplier Performance:** Improved supplier quality through data-driven feedback
+* **Cost Avoidance:** Eliminates processing costs on defective materials
 
+***
