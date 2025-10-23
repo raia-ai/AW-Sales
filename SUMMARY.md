@@ -15,6 +15,7 @@
     * [A+W-Business\_Pro](gitbook-content/products/erp/business_pro.md)
     * [A+W-Enterprise](gitbook-content/products/erp/enterprise.md)
     * [iCut](gitbook-content/products/erp/icut.md)
+    * [A+W Cantor   Complete ERP Solution for Windows & Doors](products/erp/a+w-cantor-complete-erp-solution-for-windows-and-doors.md)
   * [Production](products/production/README.md)
     * [A+W-Production](gitbook-content/products/production/production.md)
   * [Optimization](products/optimization/README.md)
