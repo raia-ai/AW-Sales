@@ -1,4 +1,4 @@
-# A+W-iQuote
+# A+W iQuote (G)
 
 ***
 
@@ -46,16 +46,6 @@ As soon as an online order is entered into your system via A+W iQuote, it is com
 
 ***
 
-### About A+W
-
-A+W has over 40 years of global market leadership in software for the flat-glass, window, and door industries for small-, medium-, and large-sized companies. Our long-term experience is your benefit. A+W – Your Trusted Advisor
-
-A+W Software USA Inc. One Parkway North, Suite 400-S Deerfield, IL 60015 USA
-
-A+W Software Australia 37 Brandl Street Eight Mile Plains Queensland, 4113 Australia
-
-A+W Clarity Software for Glass Software for Glass, Windows & Doors
-
 Document ID: Flyer\_A+W iQuote (G)\_US\_12/2019
 
 ***
@@ -69,13 +59,3 @@ Expand your business or serve your existing customers better thanks to around-th
 All of your data and calculations are managed and executed directly in your A+W Business ERP system, which means that it is no longer necessary to maintain two databases and synchronise data at specific times.
 
 Orders taken will be synchronised directly with your stocks and you can transfer them quickly and easily to production. There is no double entry of orders.
-
-A+W – over 40 years of global market leadership in software for the flat-glass, windows and doors industry – for small, medium-sized and enterprise companies.
-
-A+W Software GmbH\
-Siemensstraße 3 35463 Fernwald Germany [info@a-w.com](mailto:info@a-w.com)
-
-A+W Software Australia\
-Eight Mile Plains, Queensland, 4113 [australia@a-w.com](mailto:australia@a-w.com)
-
-A+W Clarity: Software for Glass, Windows & Doors

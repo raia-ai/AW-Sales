@@ -48,18 +48,40 @@ This knowledge base is optimized for AI retrieval and provides structured inform
 * Frame assembly, dealer networks, installation logistics
 * A+W Cantor suite (ERP for windows/doors/façades)
 
-## Key Products
+## Main Systems - A+W Clarity
 
 * **A+W Enterprise**: Full ERP for large glass manufacturers
 * **A+W Business Pro**: Mid-market ERP solution
 * **A+W Business**: Entry-level ERP for small operations
 * **A+W iCut**: Cutting optimization for small businesses
 * **A+W Production**: Manufacturing execution system (MES)
+* **A+W Smart Factory:** Intelligent automation solution (MES)
+
+## Addons - A+W Clarity
+
 * **A+W DynOpt**: Dynamic cutting optimization
 * **A+W Defect Optimizer**: Quality-driven optimization
 * **A+W iQuote (G)**: Digital quoting solution
 * **A+W iShape**: Template digitization tool
 * **A+W Smart Delivery**: Delivery management system
+* **A+W CAD Designer:**&#x20;
+* **A+W Capacity Planner:**
+* **A+W Furnace Optimizer:**
+* **A+W Production Terminal:**&#x20;
+* **A+W Rack Optimizer:**&#x20;
+* **A+W Smart Companion:**
+* **A+W Residual Stock Manager:**&#x20;
+
+## Main Systems - A+W Cantor
+
+* **A+W Cantor ERP:**
+* **A+W Cantor CIM:**
+* **A+W Cantor Dealer Cloud:**
+
+## Addons - A+W Cantor
+
+* **A+W iQuote (F):**
+* **A+W Cantor Smart Companion:**
 
 ## How to Use This Knowledge Base
 

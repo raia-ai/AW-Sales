@@ -1,4 +1,4 @@
-# A+W-Smart-Delivery
+# A+W Smart Delivery
 
 ## title: "A+W Smart Delivery"
 
@@ -59,37 +59,6 @@ With minimal effort, A+W Smart Delivery can be upgraded to the A+W Logistic Opti
 * Accelerate subsequent processes after shipping by using online feedback (e.g. invoicing)
 
 A+W Smart Delivery improves customer satisfaction with delivery confirmation while faster billing improves your cash flow and your bottom line.
-
-***
-
-### About A+W
-
-A+W has over 40 years of global market leadership in software for the flat-glass, window, and door industries for small-, medium-, and large-sized companies.
-
-Our long-term experience is your benefit.
-
-A+W – Your Trusted Advisor
-
-***
-
-### Contact Information
-
-**A+W Software USA Inc.**\
-One Parkway North, Suite 400-S\
-Deerfield, IL 60015 USA\
-Phone +1 312 470 6645 (Main)\
-Phone +1 888 254 2915 (Toll Free)\
-Fax +1 847 948 9425\
-[usa@a-w.com](mailto:usa@a-w.com)\
-[www.a-w.com](http://www.a-w.com/)
-
-**A+W Software Australia**\
-37 Brandl Street\
-Eight Mile Plains\
-Queensland, 4113 Australia\
-Phone +61 1800 284 978\
-[australia@a-w.com](mailto:australia@a-w.com)\
-[www.a-w.com](http://www.a-w.com/)
 
 ***
 
