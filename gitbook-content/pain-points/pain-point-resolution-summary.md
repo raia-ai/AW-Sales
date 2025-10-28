@@ -1,2 +1,0 @@
-# Pain Point Resolution Summary
-
