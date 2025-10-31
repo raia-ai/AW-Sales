@@ -4,6 +4,7 @@
   * [A+W Software Competitive Advantages](AW_GitBook/overview/competitive-advantages.md)
   * [A+W Common Customer Pain Points / Objection Handling ](AW_GitBook/overview/customer-pain-points.md)
   * [A+W Software Product Guide](AW_GitBook/overview/product-guide.md)
+  * [AW Cantor Complete Catalog](overview/aw-cantor-complete-catalog.md)
 * [ERP Solutions](erp-solutions/README.md)
   * [A+W Business: Software for Glass](AW_GitBook/erp-solutions/aw-business.md)
   * [A+W Business Pro: Integrated Production Control](AW_GitBook/erp-solutions/aw-business-pro.md)
