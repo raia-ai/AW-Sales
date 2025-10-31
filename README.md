@@ -30,7 +30,6 @@
 ## Digitization Tools
 
 * [A+W iShape - Template Digitization](AW_GitBook/digitization-tools/aw-ishape.md)
-* [A+W iQuote - Quotation Generation](AW_GitBook/digitization-tools/aw-iquote.md)
 
 ## Logistics Solutions
 
