@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Table of Contents](README.md)
-* [Overview](overview/README.md)
+* [Overview](README.md)
   * [A+W Software Competitive Advantages](AW_GitBook/overview/competitive-advantages.md)
   * [A+W Common Customer Pain Points / Objection Handling ](AW_GitBook/overview/customer-pain-points.md)
   * [A+W Software Product Guide](AW_GitBook/overview/product-guide.md)
