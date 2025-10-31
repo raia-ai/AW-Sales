@@ -1,11 +1,19 @@
 ---
-title: "A+W Residual Stock Manager"
-source: "AWResidualStockManager.md"
-tags: ["Logistics", "Stock Management", "Residual Plates"]
-version: "1.0"
-last_updated: "2025-10-28"
-short_description: "An intelligent software solution for managing leftover glass plates."
-long_description: "This document describes the A+W Residual Stock Manager, a software solution for intelligently managing residual plates from cutting operations. It helps to reduce waste and maximize material usage by tracking and re-integrating leftover glass into the production process without the need for expensive mechanical storage systems."
+title: A+W Residual Stock Manager
+source: AWResidualStockManager.md
+tags:
+  - Logistics
+  - Stock Management
+  - Residual Plates
+version: '1.0'
+last_updated: '2025-10-28'
+short_description: An intelligent software solution for managing leftover glass plates.
+long_description: >-
+  This document describes the A+W Residual Stock Manager, a software solution
+  for intelligently managing residual plates from cutting operations. It helps
+  to reduce waste and maximize material usage by tracking and re-integrating
+  leftover glass into the production process without the need for expensive
+  mechanical storage systems.
 ---
 
 # A+W Residual Stock Manager
@@ -20,19 +28,19 @@ A good solution: Use a residual plate management system. The valuable first cuts
 
 But these mechanical storage systems represent significant investments. Careful amortization calculations are required in order to make the right business decision: is a residual sheet management system worth the price? It's not the optimal solution for every company.
 
-## Manage residual sheets with intelligent software
 
-## Residual plate management across several cutting lines
 
 ## Keeping an eye on everything
+
 In the "Residual Overview," the user can get a quick overview of the content of the manual storage, including the location, glass type, dimensions, sequence of the glass on the rack, etc. From here, you can also make changes. This way, the machine operator always has full control of the residual plates and can override decisions made by the system, if necessary.
 
 Yes, unfortunately even RSM cannot overcome the laws of physics. Of course the user has a slight loss of productivity if - instead of simply pushing a jumbo across the cutting table, the operators have to manually remove a remnant and put it in a defined position - and there is additional productivity loss if a remnant has to be taken from a harp rack, and possibly, for larger sheets, moved by two workers and placed on the cutting table.
 
 ## Your benefits:
-*   No investment in expensive mechanical systems
-*   Reduction of manual search efforts
-*   Timely reprocessing
-*   Sequence consideration to minimize set-up time
-*   Use of a residual plate management system managed by A+W Residual Stock Manager possible across several cutting tables
-*   Use in combination with mechanical systems is possible with good results
+
+* No investment in expensive mechanical systems
+* Reduction of manual search efforts
+* Timely reprocessing
+* Sequence consideration to minimize set-up time
+* Use of a residual plate management system managed by A+W Residual Stock Manager possible across several cutting tables
+* Use in combination with mechanical systems is possible with good results
