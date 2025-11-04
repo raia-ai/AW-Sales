@@ -1,7 +1,7 @@
 ---
 title: "A+W iShape - Digitize Templates with a Smartphone Camera"
 source: "AWIShape.md"
-tags: ["Digitization", "Templates", "Smartphone", "CNC"]
+tags: ["Clarity", "Digitization", "Templates", "Smartphone", "CNC"]
 version: "1.0"
 last_updated: "2025-10-28"
 short_description: "A solution that digitizes physical templates for non-rectangular glass shapes using a smartphone camera."

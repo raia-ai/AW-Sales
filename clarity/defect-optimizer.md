@@ -1,7 +1,7 @@
 ---
 title: "A+W Defect Optimizer"
 source: "AW_Defect_Optimizer.md"
-tags: ["Optimization", "Defect Detection", "Quality Control"]
+tags: ["Clarity", "Optimization", "Defect Detection", "Quality Control"]
 version: "1.0"
 last_updated: "2025-10-28"
 short_description: "An intelligent pre-cutting optimization tool that detects and considers defects before cutting."
@@ -14,9 +14,7 @@ long_description: "This document describes the A+W Defect Optimizer, a solution 
 
 ### The Challenge: Costly Defects Discovered Too Late
 
-Do your customers complain about flawed lites/windows after installation? Do you have to report finished units broken after washing due to breaks and inclusions and then re-make them? By now, you would already have incurred significant costs for production (and dispatch) of the lite. And now you must invest in remaking a lite and, if necessary, sending it to the customer again.
-
-Statistically, every second jumbo lite has a defect. However, inclusions and defects on stock and residual lites are frequently detected only very late, for example, during quality control before/after IGU assembly or, in the worst case, at the customer.
+Do your customers complain about flawed lites/windows after installation? Statistically, every second jumbo lite has a defect. However, inclusions and defects on stock and residual lites are frequently detected only very late, for example, during quality control before/after IGU assembly or, in the worst case, at the customer.
 
 ### The Solution: Intelligent Pre-Cutting Optimization
 
@@ -26,8 +24,6 @@ Why not detect and consider defects in the optimization stage even before cuttin
 - Defects are considered during optimization for a new or restructured cutting pattern.
 - Required sequences are considered in the optimization process.
 - Information about defects in residual plates is stored and can be used again later without another check.
-- If defects cannot be avoided with optimization (number and size of lites on the pattern), then smaller, cheaper glass parts are placed on the defect.
-- Pieces of glass that contain defects are automatically reported broken and remade.
 
 ## Your benefits:
 
