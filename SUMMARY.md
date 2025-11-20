@@ -28,3 +28,4 @@
   * [A+W Software Competitive Advantages Analysis](overview-and-resources/competitive-advantages.md)
   * [How A+W Competitive Advantages Address Glass Manufacturer Pain Points](overview-and-resources/customer-pain-points.md)
   * [A+W Software Product Landscape](overview-and-resources/product-guide.md)
+  * [Source Directory (Internal Use Only)](overview-and-resources/source-directory-internal-use-only.md)
