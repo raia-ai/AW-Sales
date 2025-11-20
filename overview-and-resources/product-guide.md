@@ -1,6 +1,22 @@
-# A+W Software Product Guide
+# A+W Software Product Landscape
 
-This guide provides a comprehensive overview of the A+W Software product suite.
+## A+W Product Landscape
+
+
+
+This page provides a high-level overview of the A+W Software product landscape, designed to help navigate our comprehensive suite of solutions for the glass and fenestration industries. The products are organized by target market, company size, and core functionality to help you quickly identify which solutions best align with your business needs.
+
+**This is not an exhaustive catalog of every feature and module.** Instead, it serves as a strategic guide to understanding the relationships between different products and how they work together to create complete manufacturing solutions. For detailed technical specifications, feature lists, and implementation information, please refer to the dedicated product pages in the respective sections.
+
+The A+W ecosystem consists of three main categories:
+
+* **Standalone Solutions**: Complete ERP and production systems that serve as the foundation of your manufacturing operations (e.g., A+W Business, A+W Enterprise, A+W Production, A+W SmartFactory)
+* **Add-on Modules**: Specialized optimization and utility modules that enhance your core systems with advanced capabilities (e.g., A+W iCut, A+W Logistics Optimizer, A+W Capacity Planner)
+* **Cantor Suite**: Dedicated solutions for the windows, doors, and fenestration industry (A+W Cantor ERP, A+W Cantor CIM, A+W Cantor Dealer Cloud)
+
+Use this landscape overview to understand which products are right for your company size and industry focus, then explore the detailed product pages to learn more about specific capabilities and implementation options.
+
+***
 
 #### A+W Enterprise
 
