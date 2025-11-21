@@ -22,7 +22,7 @@
   * [A+W Smart Companion](clarity/a+w-smart-companion.md)
   * [A+W Smart Factory GB](clarity/a+w-smart-factory-gb.md)
   * [A+W Capacity Planner](clarity/a+w-capacity-planner.md)
-  * [A+W Furnace Pptimizer](clarity/a+w-furnace-pptimizer.md)
+  * [A+W Furnace Optimizer](clarity/a+w-furnace-optimizer.md)
   * [A+W IShape GB](clarity/a+w-ishape-gb.md)
 * [Overview-and-resources](overview-and-resources/README.md)
   * [A+W Software Competitive Advantages Analysis](overview-and-resources/competitive-advantages.md)
